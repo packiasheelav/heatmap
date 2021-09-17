@@ -7,8 +7,7 @@
 Screen Shot:
 ![heatmap](https://user-images.githubusercontent.com/41167286/133745332-f47f2e50-52fd-4712-9461-551e177a7506.PNG)
 # Component:
-  The heat map 'MyHeatMap' component is reusable.Its not publised in npm yet. But It could be integrate to react app. The conmponent 'MyHeatMap' is located under .src/components
-
+  The heat map 'MyHeatMap' component is reusable. The conmponent 'MyHeatMap' is located under .src/components
 
 # Tech Stack:
   react
