@@ -9,11 +9,11 @@ Screen Shot:
 # Component:
   The heat map 'MyHeatMap' component is reusable. The conmponent 'MyHeatMap' is located under .src/components
 
-# Tech Stack:
-  react
-  material-ui
+##### Tech Stack:
+  * React
+  * Material-ui
 
-Basic Usage example:
+###### Basic Usage example:
 
 ```
 import React from "react";
@@ -51,9 +51,9 @@ function App() {
 export default App;
 
 ```
-# Input Heatdata:
+#### Input Heatdata:
 
-MyHeatMap component required a dataset.The datastructure shoulbe be like below. date and count fields are mandatory. the date format should be yyyy/mm/dd
+MyHeatMap component required a dataset.The datastructure shoulbe be like below. Date and count fields are mandatory. The date format should be yyyy/mm/dd
 
 ```
 [
@@ -63,13 +63,13 @@ MyHeatMap component required a dataset.The datastructure shoulbe be like below. 
 
 ```
 
-# Color: 
+#### Color: 
   These '#eee', '#c6e48b', '#7bc96f', '#239a3b', '#196127' colors are used in the heatmap. The color selection works based on the data count value. 
 
-# Example: 
+#### Example: 
   The example application is uses Finland daily_vaccinations date and count data from world COVID-19 datasets. The dataset is avilable here https://www.kaggle.com/gpreda/covid-world-vaccination-progress
 
-# Getting started :
+#### Getting started :
   Checkout the repo.
 
 ```
