@@ -29,12 +29,6 @@ export const processData = ({ heatData }) => {
     const splitPositionL3 = splitPositionL2 + roundedDivedNumber + r3
     const splitPositionL4 = splitPositionL3 + roundedDivedNumber + (total - (splitPositionL3 + roundedDivedNumber))
 
-    console.log("splitPositionL2 ", splitPositionL2)
-    console.log("splitPositionL3", splitPositionL3)
-    console.log("splitPositionL4", splitPositionL4)
-    console.log("remainder", remainder)
-    console.log("roundedDivedNumber", roundedDivedNumber)
-
     const sl1 = sortData.slice(0, splitPositionL1)
     const sl2 = sortData.slice(splitPositionL1, splitPositionL2)
     const sl3 = sortData.slice(splitPositionL2, splitPositionL3)
