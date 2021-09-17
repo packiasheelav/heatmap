@@ -1,6 +1,7 @@
 # Heatmap
 
 ##### A React frontend application to create a heatmap calendar developed with react and material ui. Heatmap is a calendar based heatmap. It show the amount of activity for a given calendar day, relative to other days in the calendar.
+![heatmap](https://user-images.githubusercontent.com/41167286/133744642-35bbe5cd-4a89-46ad-9a58-3d1d3fc338e5.PNG)
 
 #### The tech stack includes:
 
