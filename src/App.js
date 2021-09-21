@@ -1,7 +1,7 @@
 import React from "react";
 import MyHeatMap from "./components/MyHeatMap";
-//Finland Covid daily vaccination data 
-import testHeatData from './data/testData.json';
+//Finland Covid daily vaccination data
+import testHeatData from "./data/testData.json";
 
 function App() {
   return (
